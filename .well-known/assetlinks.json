@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "fr.maxlavegie.cap",
+    "sha256_cert_fingerprints": ["29:8D:C6:09:D5:70:A5:F6:CF:34:03:D2:A5:BE:3F:5E:B1:B1:25:CE:E9:15:7C:9F:E4:0A:78:8B:45:28:41:AA"]
+  }
+}]
